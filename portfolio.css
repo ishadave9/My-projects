@@ -1,0 +1,172 @@
+.navbar{
+    width:100%;
+    background-color: black;
+    overflow: auto;
+    position: fixed;
+}
+.navbar a{
+    float:left;
+    text-align: center;
+    padding:12px;
+    text-decoration: none;
+    color:blanchedalmond;
+    font-size: 17px;
+}
+@media screen and(max-width:500px)
+{
+  .navbar a{
+    float:none;
+    display:block;
+  }
+}
+.main{
+    background-image: url('https://images.unsplash.com/photo-1513569771920-c9e1d31714af?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dHJhbnNwYXJlbnQlMjBkYXJrJTIwYmFjZ3JvdW5kfGVufDB8fDB8fHww');
+    background-position: y;
+    height:5200px;
+    width:1473px;
+    padding-top: 70px;
+}
+h6{
+    color:azure;
+    font-size:29px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    text-shadow: 5px;
+    color:azure;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-weight: 530;
+    padding-top: 20px;
+}
+.para{
+    font-size: 27px;
+    text-align: center;
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 530;
+}
+.circle1{
+    height:350px;
+    width:350px;
+    border-radius:50%;
+    margin-left: 550px;
+    padding-top: 20px;
+}
+.C{
+    justify-content:center;
+    display: flex;
+    align-items: flex-end;
+    text-align: center;
+    flex-direction: row;
+    width:100%;
+    justify-content:space-between;
+  }
+  .circle-img{
+    width:350px;
+    height:350px;
+    object-fit:cover;
+    border-radius: 50%;
+  }
+  h6{
+    color:rgb(220, 204, 204);
+    font-size:29px;
+    text-align: start;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left: 12PX;
+    font-weight: 600;
+}
+  h5{
+    color:rgb(14, 0, 0);
+    font-size:35px;
+    padding-top: 68px;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left:10px;
+    font-weight: 600;
+}
+p{
+    font-size: 24px;
+    text-align: center;
+    color:white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: 530;
+}
+.Outer{
+    width:1467px;
+    height:1260px;
+    border:0px solid black;
+  }
+  .row1{
+    padding-left: 90px;
+    justify-content: space-evenly;
+  }
+  .row3{
+    padding-right: 90px;
+    justify-content: space-evenly;
+  }
+  .image-row{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-top: 35px;
+  }
+  .image{
+    margin:50px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  h2{
+    color:rgb(16, 1, 1);
+    font-size:35px;
+    padding-top: 94px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left:10px;
+    font-weight: 600;
+}
+h3{
+    color:rgb(0, 0, 0);
+    font-size:35px;
+    padding-top: 50px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left:10px;
+    font-weight: 600;
+    padding-top: 260px;;
+}
+li{
+    font-size:28px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color:white;
+    padding-left: 50px;
+    padding-top: 5px;;
+}
+h4{
+   background-image: url('https://media.istockphoto.com/id/648280890/photo/white-gray-gradient-background-abstract-background.webp?b=1&s=170667a&w=0&k=20&c=vGpLZ6YEf8LPL1AgWFwoOiIqol_ZSQd_WsfB3oSXMyo=');
+}
+  h3{
+    color:rgb(0, 0, 0);
+    font-size:35px;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    padding-left:10px;
+    font-weight: 600;
+    padding-top:70px; ;
+
+}
+.para3{
+  font-weight: 600;
+  color: aliceblue;
+  height:600px;
+  text-align: center;
+  width:100%;
+  padding-top:200px;
+  font-size:25px;
+  font-family:Georgia,'Times New Roman',Times,serif;
+}
+
+
